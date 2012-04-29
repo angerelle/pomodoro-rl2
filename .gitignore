@@ -1,9 +1,36 @@
-# Build and Release Folders
-bin-debug/
-bin-release/
+/.settings/*
+/html-template/*
+/bin-debug/*
+/bin-release/*
+/bin/*
+/docs/*
+/doc/*
+/obj/*
+/report/*
+/reports/*
+/target/*
+/dist/*
+/target
+/lib/asunit3/*
 
-# Project property files
 .actionScriptProperties
 .flexProperties
-.settings/
+.flexLibProperties
+.FlexUnitSettings
 .project
+.sourceMate
+.fxpProperties
+
+user.properties
+Icon
+Thumbs.db
+.DS_Store
+
+src/FlexUnitApplication.mxml
+
+.idea
+*.iml
+*.ipr
+*.iws
+
+target/test-classes/TestRunner.mxml
