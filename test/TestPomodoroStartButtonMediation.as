@@ -20,7 +20,7 @@ import org.flexunit.async.Async;
 
 import robotlegs.bender.extensions.localEventMap.impl.EventMap;
 
-import uk.co.dilkusha.PomodoroUserInteractionEvent;
+import uk.co.dilkusha.controller.events.PomodoroUserInteractionEvent;
 
 import uk.co.dilkusha.view.PomodoroStartButton;
 import uk.co.dilkusha.view.PomodoroStartButtonMediator;

@@ -1,4 +1,4 @@
-package uk.co.dilkusha {
+package uk.co.dilkusha.controller.events {
 import flash.events.Event;
 
 public class PomodoroUserInteractionEvent extends Event {

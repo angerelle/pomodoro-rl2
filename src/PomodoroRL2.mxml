@@ -8,6 +8,9 @@
             <config:PomodoroConfig/>
         </mxml:ContextBuilderTag>
     </fx:Declarations>
-
+    <s:layout>
+        <s:VerticalLayout/>
+    </s:layout>
+    <view:TimeRemainingLabel/>
     <view:PomodoroStartButton/>
 </s:Application>

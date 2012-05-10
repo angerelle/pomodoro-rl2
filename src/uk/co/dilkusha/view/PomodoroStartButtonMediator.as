@@ -4,7 +4,7 @@ import flash.events.MouseEvent;
 
 import robotlegs.bender.bundles.mvcs.Mediator;
 
-import uk.co.dilkusha.PomodoroUserInteractionEvent;
+import uk.co.dilkusha.controller.events.PomodoroUserInteractionEvent;
 
 public class PomodoroStartButtonMediator extends Mediator {
 
