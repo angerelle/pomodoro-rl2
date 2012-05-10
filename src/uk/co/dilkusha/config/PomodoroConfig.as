@@ -18,7 +18,7 @@ public class PomodoroConfig {
 
     [PostConstruct]
     public function init():void {
-        mediatorMap.mapView(PomodoroStartButton).toMediator(PomodoroStartButtonMediator);
+        mediatorMap.map(PomodoroStartButton).toMediator(PomodoroStartButtonMediator);
     }
 }
 }
