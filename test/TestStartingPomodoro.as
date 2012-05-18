@@ -21,7 +21,7 @@ import uk.co.dilkusha.model.PomodoroDefaults;
 
 public class TestStartingPomodoro {
 
-    private static const SECONDS_IN_25_MINS = 1500;
+    private static const SECONDS_IN_25_MINS:Number = 1500;
 
     private var _pomodoroStartedCommand:PomodoroStartedCommand;
     private var _eventDispatcher:IEventDispatcher;
